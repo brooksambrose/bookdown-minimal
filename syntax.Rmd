@@ -1,0 +1,19 @@
+---
+title: "A Book"
+author: "Frida Gomam"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+---
+
+# (PART) Epilogue {-}
+# Scene 1
+# (PART) Act I
+# Scene 2
+# (PART) Act II
+# Scene 3
+# (PART) Act III
+# Scene 4
+# (PART) Prologue {-}
+# Scene 5
