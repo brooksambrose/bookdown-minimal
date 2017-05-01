@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+_book/*
+.DS_Store
+.config/*
+.rstudio/*
+.subversion/*

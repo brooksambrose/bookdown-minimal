@@ -7,7 +7,7 @@ output:
   bookdown::gitbook: default
 ---
 
-# Epilogue {-}
+# Prologue {-}
 ## Scene 1
 # Act I {-}
 ## Scene 2
@@ -15,5 +15,5 @@ output:
 ## Scene 3
 # Act III {-}
 ## Scene 4
-# Prologue {-}
+# Epilogue {-}
 ## Scene 5
